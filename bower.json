@@ -1,0 +1,17 @@
+{
+  "name": "animated",
+  "version": "0.0.1",
+  "authors": [
+    "shrig94 <shrig94@gmail.com>"
+  ],
+  "description": "an animation framework built on animate.css",
+  "main": "animate.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
