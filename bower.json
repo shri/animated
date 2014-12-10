@@ -1,11 +1,14 @@
 {
   "name": "animated",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "authors": [
     "shrig94 <shrig94@gmail.com>"
   ],
   "description": "an animation framework built on animate.css",
-  "main": "animate.js",
+  "main": [
+    "animated.js",
+    "animated.css"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -15,6 +18,7 @@
     "tests"
   ],
   "dependencies": {
-    "animate.css": "~3.2.0"
+    "animate.css": "~3.2.0",
+    "jquery": "~2.1.1"
   }
 }
