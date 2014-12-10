@@ -1,3 +1,11 @@
+##animated
+animated is a lightweight animation framework originally built by 
+[Shri Ganeshram](github.com/shri) to progressively animate DOM elements 
+on a webpage. It works well with the animate.css framework and depends on 
+animate.css and jQuery.
+
+animated is licensed under the MIT License.
+
 ## installation
 <code>bower install animated</code>
 
@@ -16,7 +24,7 @@ animate.add("customClass", "animated animateCSSClass", {
 delays between animations of each <code>customClass</code> in milliseconds.
 
 Available animateCSSClasses can be found on the 
-[animate.css framework website](http://daneden.github.io/animate.css/);
+[animate.css framework website](http://daneden.github.io/animate.css/).
 
 Alternatively, use your own css animations in place of 
 <code>animated animateCSSClass</code>.
