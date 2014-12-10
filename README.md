@@ -7,7 +7,14 @@ animate.css and jQuery.
 animated is licensed under the MIT License.
 
 ## installation
+Depends on bower.
+
 <code>bower install animated</code>
+
+Include <code>jquery/dist/jquery.js</code>, <code>animated/animated.js</code>, 
+<code>animated/animated.css</code>, and optionally 
+<code>animate.css/animate.css</code> in your HTML file from your 
+<code>bower_components</code> directory.
 
 ## use
 ```js
